@@ -68,7 +68,16 @@ Aquí puedes ingresar tu nombre personal, el nombre del equipo y tu nombre de us
 
 ![A](https://raw.githubusercontent.com/kmels/DocEdulibre/master/7-personalizar.png)
 
-Es muy recomendado que cifres tu carpeta de usuario, ya que esto puede llegar a proteger tus datos en un posible caso de robo.
+Es muy recomendado que cifres tu carpeta de usuario, ya que esto puede llegar a proteger tus datos en un posible caso
+
+
+----------
+
+
+----------
+
+
+ de robo.
 
 ### <i class="icon-user"></i> Paso 9. Proceso de instalación
 
