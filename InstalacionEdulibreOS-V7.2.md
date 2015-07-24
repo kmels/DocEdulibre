@@ -89,5 +89,6 @@ No olvides visitar la guía sobre el uso del entorno gráfico en esta versión, 
 
 ### Apoya a Edulibre y a EdulibreOS
 
-[![](http://edulibre.net/wp-content/uploads/2012/10/logo3-800x457.png)](http://edulibre.net/?cat=18)
+[![](https://raw.githubusercontent.com/kmels/DocEdulibre/master/edulibreos_logo.png)](http://edulibre.net/?cat=18)
 
+[![](https://raw.githubusercontent.com/kmels/DocEdulibre/master/logo_edulibre.png)](http://edulibre.net/?cat=18)
