@@ -1,15 +1,15 @@
-Bienvenido al Tutorial de Instalación de Edulibre V7.2!
+Bienvenido al Tutorial de Instalación de EdulibreOS V7.2!
 ===================
 
 
-Hola! Edulibre es una distribución de Ubuntu/Linux, un sistema operativo. Edulibre es desarrollado en Guatemala especialmente para escuelas y estudiantes en educación primaria.
+Hola! EdulibreOS es una distribución de Ubuntu/Linux, un sistema operativo. EdulibreOS es desarrollado en Guatemala especialmente para escuelas y estudiantes en educación primaria.
 
-En su última version y a partir de la version 7, Edulibre provee un entorno gráfico propio llamado InnovaDE. Para poder apreciarlo, puedes seguir esta guía de instalación.
+En su última version y a partir de la version 7, EdulibreOS provee un entorno gráfico propio llamado InnovaDE. Para poder apreciarlo, puedes seguir esta guía de instalación.
 
 ---
 ### <i class="icon-download"></i> Paso 1. Descargar .iso 
 
-Toda la información y discos de instalación puedes encontrarlos en el sitio oficial de Edulibre, [edulibre.net](http://edulibre.net/)
+Toda la información y discos de instalación puedes encontrarlos en el sitio oficial de EdulibreOS, [edulibre.net](http://edulibre.net/)
 
 
 ![Las descargas de la última versión se encuentran vinculadas en las cajas color verde. Ten cuidado de descargar el archivo correcto para tu arquitectura. Si el archivo es x64, entonces es para 64 bits, si es x86 entonces es de 32 bits. ](https://raw.githubusercontent.com/kmels/DocEdulibre/master/0-descarga.png)
@@ -19,7 +19,7 @@ Las descargas de la última versión se encuentran vinculadas en las cajas color
 ---
 ### <i class="icon-eject"></i> Paso 2. Montar .iso
 
-Cuando la descarga termine, es posible usar el archivo para instalar Edulibre. Al utilizar el archivo .iso en la máquina en donde Edulibre se instalará, elegimos la opción para "Instalar".
+Cuando la descarga termine, es posible usar el archivo para instalar EdulibreOS. Al utilizar el archivo .iso en la máquina en donde EdulibreOS se instalará, elegimos la opción para "Instalar".
 
 Nota: Los archivos con formato .iso pueden ser grabados a un CD/ROM o también pueden ser utilizados en máquinas virtuales creadas con Virtualbox, por ejemplo. 
 
@@ -34,7 +34,7 @@ Nota: Los archivos con formato .iso pueden ser grabados a un CD/ROM o también p
 ---
 ### <i class="icon-refresh"></i> Paso 4. Actualizar multimedia
 
-Debido a que algunos paquetes no cumplen con el mismo licenciamiento que Ubuntu/Linux y Edulibre tienen para Software Libre, es necesario que se acepte por aparte la instalación, para poder reproducir Flash, Mp3 y otros archivos multimedia.
+Debido a que algunos paquetes no cumplen con el mismo licenciamiento que Ubuntu/Linux y EdulibreOS tienen para Software Libre, es necesario que se acepte por aparte la instalación, para poder reproducir Flash, Mp3 y otros archivos multimedia.
 
 ![Marcar paquetes multimedia para instalación](https://raw.githubusercontent.com/kmels/DocEdulibre/master/3-actualizar.png)
 
@@ -42,7 +42,7 @@ Debido a que algunos paquetes no cumplen con el mismo licenciamiento que Ubuntu/
 ---
 ### <i class="icon-cog"></i> Paso 5. Configurar instalación
 
-Si la máquina en donde se instala EdulibreOS es nueva, no tiene ningún otro sistema instalado, o no tendrá otro, veremos la opción de borrar todo el disco para que Edulibre sea instalado.
+Si la máquina en donde se instala EdulibreOS es nueva, no tiene ningún otro sistema instalado, o no tendrá otro, veremos la opción de borrar todo el disco para que EdulibreOS sea instalado.
 
 ![Instalar Edulibre](https://raw.githubusercontent.com/kmels/DocEdulibre/master/4-configurar.png)
 
@@ -87,7 +87,7 @@ Y ahora lo único que hace falta es esperar a que el proceso termine. Al termina
 
 No olvides visitar la guía sobre el uso del entorno gráfico en esta versión, InnovaDE.
 
-### Apoya a Edulibre
+### Apoya a Edulibre y a EdulibreOS
 
 [![](http://edulibre.net/wp-content/uploads/2012/10/logo3-800x457.png)](http://edulibre.net/?cat=18)
 
