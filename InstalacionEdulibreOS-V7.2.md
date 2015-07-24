@@ -1,0 +1,93 @@
+Bienvenido al Tutorial de Instalación de Edulibre V7.2!
+===================
+
+
+Hola! Edulibre es una distribución de Ubuntu/Linux, un sistema operativo. Edulibre es desarrollado en Guatemala especialmente para escuelas y estudiantes en educación primaria.
+
+En su última version y a partir de la version 7, Edulibre provee un entorno gráfico propio llamado InnovaDE. Para poder apreciarlo, puedes seguir esta guía de instalación.
+
+---
+### <i class="icon-download"></i> Paso 1. Descargar .iso 
+
+Toda la información y discos de instalación puedes encontrarlos en el sitio oficial de Edulibre, [edulibre.net](http://edulibre.net/)
+
+
+![Las descargas de la última versión se encuentran vinculadas en las cajas color verde. Ten cuidado de descargar el archivo correcto para tu arquitectura. Si el archivo es x64, entonces es para 64 bits, si es x86 entonces es de 32 bits. ](https://raw.githubusercontent.com/kmels/DocEdulibre/master/0-descarga.png)
+
+Las descargas de la última versión se encuentran vinculadas en las cajas color verde. Ten cuidado de descargar el archivo correcto para tu arquitectura. Si el archivo es x64, entonces es para 64 bits, si es x86 entonces es de 32 bits. 
+
+---
+### <i class="icon-eject"></i> Paso 2. Montar .iso
+
+Cuando la descarga termine, es posible usar el archivo para instalar Edulibre. Al utilizar el archivo .iso en la máquina en donde Edulibre se instalará, elegimos la opción para "Instalar".
+
+Nota: Los archivos con formato .iso pueden ser grabados a un CD/ROM o también pueden ser utilizados en máquinas virtuales creadas con Virtualbox, por ejemplo. 
+
+![Elegimos la opción para "Instalar".](https://raw.githubusercontent.com/kmels/DocEdulibre/master/1-inicio.png)
+
+
+---
+### <i class="icon-home"></i> Paso 3. Elegir idioma 
+
+![Elegir idioma español](https://raw.githubusercontent.com/kmels/DocEdulibre/master/2-idioma.png)
+
+---
+### <i class="icon-refresh"></i> Paso 4. Actualizar multimedia
+
+Debido a que algunos paquetes no cumplen con el mismo licenciamiento que Ubuntu/Linux y Edulibre tienen para Software Libre, es necesario que se acepte por aparte la instalación, para poder reproducir Flash, Mp3 y otros archivos multimedia.
+
+![Marcar paquetes multimedia para instalación](https://raw.githubusercontent.com/kmels/DocEdulibre/master/3-actualizar.png)
+
+
+---
+### <i class="icon-cog"></i> Paso 5. Configurar instalación
+
+Si la máquina en donde se instala EdulibreOS es nueva, no tiene ningún otro sistema instalado, o no tendrá otro, veremos la opción de borrar todo el disco para que Edulibre sea instalado.
+
+![Instalar Edulibre](https://raw.githubusercontent.com/kmels/DocEdulibre/master/4-configurar.png)
+
+Si en dado caso existiera un sistema ya instalado, también sería posible instalar los dos sistemas! Cada uno en particiones diferentes.
+
+### <i class="icon-globe"></i> Paso 6. Ubicación y horario
+
+En este paso puedes configurar el horario del sistema basado en tu ubicación.
+
+![A](https://raw.githubusercontent.com/kmels/DocEdulibre/master/5-ubicacion.png)
+
+### <i class="icon-edit"></i> Paso 7. Idioma del teclado
+
+Edulibre te permite configurar el idioma del teclado.
+
+![A](https://raw.githubusercontent.com/kmels/DocEdulibre/master/6-teclado.png)
+
+Mientras lo haces, puedes escribir en esta ventana para segurarte de cómo se escriben  algunos de los caracteres especiales, tales como las tíldes, la eñe, la arroba (`@`), etcétera.
+
+### <i class="icon-user"></i> Paso 8. Identificación del equipo
+
+Aquí puedes ingresar tu nombre personal, el nombre del equipo y tu nombre de usuario.
+
+![A](https://raw.githubusercontent.com/kmels/DocEdulibre/master/7-personalizar.png)
+
+Es muy recomendado que cifres tu carpeta de usuario, ya que esto puede llegar a proteger tus datos en un posible caso
+
+
+----------
+
+
+----------
+
+
+ de robo.
+
+### <i class="icon-user"></i> Paso 9. Proceso de instalación
+
+![A](https://raw.githubusercontent.com/kmels/DocEdulibre/master/8-proceso.png)
+
+Y ahora lo único que hace falta es esperar a que el proceso termine. Al terminar, el equipo se reiniciará y tendrás listo el sistema!
+
+No olvides visitar la guía sobre el uso del entorno gráfico en esta versión, InnovaDE.
+
+### Apoya a Edulibre
+
+[![](http://edulibre.net/wp-content/uploads/2012/10/logo3-800x457.png)](http://edulibre.net/?cat=18)
+
