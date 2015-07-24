@@ -1,4 +1,4 @@
-Bienvenido al Tutorial de Instalación de Edulibre V7.2!
+Bienvenido al Tutorial de Instalación de EdulibreOS V7.2!
 ===================
 
 
