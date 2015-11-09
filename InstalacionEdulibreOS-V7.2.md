@@ -1,3 +1,28 @@
+<style>
+html {
+  overflow-y: scroll;
+  -webkit-text-size-adjust: 100%;
+  -ms-text-size-adjust: 100%;
+  font-family: Arial;
+  font-family: "Helvetica Neue", Helvetica, Arial, "Lucida Grande", sans-serif;
+}
+body {
+  background: #fff;
+}
+body {
+            padding-left: 30px; width: 70%; margin:auto;
+}
+h1,h2,h3,h4,h5,h6   {color: #0088C9}
+/* Text elements */
+p {
+  margin-bottom: 1.5em;
+}
+img  {display: block; margin-left: auto; margin-right: auto; max-width: 640px;}
+
+</style>
+
+![](https://raw.githubusercontent.com/kmels/DocEdulibre/master/Edulibre-Header.png)
+
 Bienvenido al Tutorial de Instalación de EdulibreOS V7.2!
 ===================
 
@@ -6,7 +31,6 @@ Hola! EdulibreOS es una distribución de Ubuntu/Linux, un sistema operativo. Edu
 
 En su última version y a partir de la version 7, EdulibreOS provee un entorno gráfico propio llamado InnovaDE. Para poder apreciarlo, puedes seguir esta guía de instalación.
 
----
 ### <i class="icon-download"></i> Paso 1. Descargar .iso 
 
 Toda la información y discos de instalación puedes encontrarlos en el sitio oficial de EdulibreOS, [edulibre.net](http://edulibre.net/)
@@ -91,4 +115,3 @@ No olvides visitar la guía sobre el uso del entorno gráfico en esta versión, 
 
 [![](https://raw.githubusercontent.com/kmels/DocEdulibre/master/edulibreos_logo.png)](http://edulibre.net/?cat=18)
 
-[![](https://raw.githubusercontent.com/kmels/DocEdulibre/master/logo_edulibre.png)](http://edulibre.net/?cat=18)

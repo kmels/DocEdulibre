@@ -1,5 +1,30 @@
+<style>
+html {
+  overflow-y: scroll;
+  -webkit-text-size-adjust: 100%;
+  -ms-text-size-adjust: 100%;
+  font-family: Arial;
+  font-family: "Helvetica Neue", Helvetica, Arial, "Lucida Grande", sans-serif;
+}
+body {
+  background: #fff;
+}
+body {
+            padding-left: 30px; width: 70%; margin:auto;
+}
+h1,h2,h3,h4,h5,h6   {color: #0088C9}
+/* Text elements */
+p {
+  margin-bottom: 1.5em;
+}
+img  {display: block; margin-left: auto; margin-right: auto; max-width: 640px;}
 
-Guía sobre el uso de InnovaDE
+</style>
+
+
+![](https://raw.githubusercontent.com/kmels/DocEdulibre/master/Edulibre-Header.png)
+
+Guía sobre el uso de InnovaDE 
 ===================
 
 ### El nuevo entorno de EdulibreOS, versión 7.
@@ -7,7 +32,6 @@ Guía sobre el uso de InnovaDE
 Hola! En esta guía puedes aprender como realizar tareas básicas en el nuevo entorno gráfico InnovaDE, de EdulibreOS, y también encontrarás programas curiosos e interesantes.
 
 
----
 ### 1. Bienvenida
 
 Lo primero que verás cuando inicies una máquina con Edulibre será la pantalla de bienvenida o Splash. El Splash también lo puedes personalizar, lee más para enterarte como.
@@ -30,7 +54,7 @@ Manteniendo el espiritú de los sistemas operativos modernos, Edulibre e InnovaD
 
 ![Elegir idioma español](https://raw.githubusercontent.com/kmels/DocEdulibre/master/g3-menu-inicio.png)
 
-Para activarlo, haz clíck en el botón en la esquina inferior izquierda. La imágen de este botón también es personalizable en MyInnova. Cuando lo actives, verás el botón de apagado y de reinicio para el sistema. 
+Para activarlo, haz clíck en el botón en la esquina inferior izquierda. La imágen de este botón también es personalizable en MyInnova. Cuando lo actives, verás el botón de apagado y de reinicio para el sistema.
 
 También puedes buscar tu programa favorito al escribir su nombre o bien haciendo clíck en su categoría del lado izquierdo.
 
@@ -43,7 +67,7 @@ También puedes buscar tu programa favorito al escribir su nombre o bien haciend
 
 ![Cambiar apariencia - Resolución de la pantalla](https://raw.githubusercontent.com/kmels/DocEdulibre/master/g4-controlcenter-apariencia-res.png)
 
-#### 
+####
 
 
 
@@ -51,8 +75,8 @@ También puedes buscar tu programa favorito al escribir su nombre o bien haciend
 
 ![Cambiar apariencia - Resolución de la pantalla](https://raw.githubusercontent.com/kmels/DocEdulibre/master/g4-controlcenter-hardware-printer-add.png)
 
-![Cambiar apariencia - Resolución de la pantalla](https://raw.githubusercontent.com/kmels/DocEdulibre/master/g4-controlcenter-hardware-printer.png)     
-                      
+![Cambiar apariencia - Resolución de la pantalla](https://raw.githubusercontent.com/kmels/DocEdulibre/master/g4-controlcenter-hardware-printer.png)
+
 ![Cambiar apariencia - Resolución de la pantalla](https://raw.githubusercontent.com/kmels/DocEdulibre/master/g4-controlcenter-hardware-audio.png)
 
 ![Cambiar apariencia - Resolución de la pantalla](https://raw.githubusercontent.com/kmels/DocEdulibre/master/g4-controlcenter-hardware-gparted.png)
@@ -80,7 +104,7 @@ También puedes buscar tu programa favorito al escribir su nombre o bien haciend
 
 ![Cambiar apariencia - Resolución de la pantalla](https://raw.githubusercontent.com/kmels/DocEdulibre/master/g4-controlcenter-sistema-tareas-filtro.png)
 
- 
+
 ##### Información del Sistema
 ![Apariencia de Innova](https://raw.githubusercontent.com/kmels/DocEdulibre/master/g4-controlcenter-info.png)
 
@@ -96,7 +120,7 @@ También puedes buscar tu programa favorito al escribir su nombre o bien haciend
 
 ![Preferencias de innova](https://raw.githubusercontent.com/kmels/DocEdulibre/master/g5-myinnova-innova.png)
 
-##### Panel 
+##### Panel
 
 ![Preferencias del panel](https://raw.githubusercontent.com/kmels/DocEdulibre/master/g5-myinnova-panel.png)
 
@@ -114,10 +138,15 @@ También puedes buscar tu programa favorito al escribir su nombre o bien haciend
 
 
 ---
-### 6. Aplicaciones 
+### 6. Aplicaciones
 
 ##### Para los pequeñitos – edad apróximada: entre 5 y 7 años
 
 ##### Para los medianos – edad apróximada: entre 8 y 10 años
 
 ##### Para los grandotes – edad apróximada: entre 10 y 12 años
+
+### Apoya a Edulibre y a EdulibreOS
+
+[![](https://raw.githubusercontent.com/kmels/DocEdulibre/master/edulibreos_logo.png)](http://edulibre.net/?cat=18)
+
