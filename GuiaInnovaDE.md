@@ -36,14 +36,14 @@ Hola! En esta guía puedes aprender como realizar tareas básicas en el nuevo en
 
 Lo primero que verás cuando inicies una máquina con Edulibre será la pantalla de bienvenida o Splash. El Splash también lo puedes personalizar, lee más para enterarte como.
 
-![Bienvenida](https://raw.githubusercontent.com/kmels/DocEdulibre/master/g1-bienvenido.png)
+![](https://raw.githubusercontent.com/kmels/DocEdulibre/master/g1-bienvenido.png)
 
 ---
 ### 2. Manejo de Ventanas
 
 Al ingresar verás el escritorio, en el cual podrás abrir programas y manejar sus ventanas. Estas ventanas las puedes arrastrar con el ratón, cambiarles el tamaño, y algunas también incluyen un menú con más opciones del programa.
 
-![Elegir idioma español](https://raw.githubusercontent.com/kmels/DocEdulibre/master/g2-ventanas.png)
+![](https://raw.githubusercontent.com/kmels/DocEdulibre/master/g2-ventanas.png)
 
 En esta imágen hemos indicado como se minimiza, cierra y se maximiza una ventana. Además de señalar el menú de un programa.
 
@@ -52,7 +52,7 @@ En esta imágen hemos indicado como se minimiza, cierra y se maximiza una ventan
 
 Manteniendo el espiritú de los sistemas operativos modernos, Edulibre e InnovaDE provee un menú de inicio llamado Launcher, que es muy útil para buscar y lanzar programas.
 
-![Elegir idioma español](https://raw.githubusercontent.com/kmels/DocEdulibre/master/g3-menu-inicio.png)
+![](https://raw.githubusercontent.com/kmels/DocEdulibre/master/g3-menu-inicio.png)
 
 Para activarlo, haz clíck en el botón en la esquina inferior izquierda. La imágen de este botón también es personalizable en MyInnova. Cuando lo actives, verás el botón de apagado y de reinicio para el sistema.
 
@@ -63,17 +63,18 @@ También puedes buscar tu programa favorito al escribir su nombre o bien haciend
 
 #### Apariencia
 
-![Apariencia de Innova](https://raw.githubusercontent.com/kmels/DocEdulibre/master/g4-controlcenter-apariencia.png)
+![](https://raw.githubusercontent.com/kmels/DocEdulibre/master/g4-controlcenter-apariencia.png)
 
-![Cambiar apariencia - Resolución de la pantalla](https://raw.githubusercontent.com/kmels/DocEdulibre/master/g4-controlcenter-apariencia-res.png)
+![](https://raw.githubusercontent.com/kmels/DocEdulibre/master/g4-controlcenter-apariencia-res.png)
 
+Resolución de la pantalla
 ####
 
 
 
 ##### Hardware
 
-![Cambiar apariencia - Resolución de la pantalla](https://raw.githubusercontent.com/kmels/DocEdulibre/master/g4-controlcenter-hardware-printer-add.png)
+![](https://raw.githubusercontent.com/kmels/DocEdulibre/master/g4-controlcenter-hardware-printer-add.png)
 
 ![Cambiar apariencia - Resolución de la pantalla](https://raw.githubusercontent.com/kmels/DocEdulibre/master/g4-controlcenter-hardware-printer.png)
 

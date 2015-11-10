@@ -36,9 +36,8 @@ En su última version y a partir de la version 7, EdulibreOS provee un entorno g
 Toda la información y discos de instalación puedes encontrarlos en el sitio oficial de EdulibreOS, [edulibre.net](http://edulibre.net/)
 
 
-![Las descargas de la última versión se encuentran vinculadas en las cajas color verde. Ten cuidado de descargar el archivo correcto para tu arquitectura. Si el archivo es x64, entonces es para 64 bits, si es x86 entonces es de 32 bits. ](https://raw.githubusercontent.com/kmels/DocEdulibre/master/0-descarga.png)
+![Las descargas de la última versión se encuentran listadas en la secci&oacute;n de Descargas. Ten cuidado de descargar el archivo correcto para tu arquitectura. Si el archivo es x64, entonces es para 64 bits unicamente, si es x86 entonces es para 32 y 64 bits. ](https://raw.githubusercontent.com/kmels/DocEdulibre/master/0-descarga.png)
 
-Las descargas de la última versión se encuentran vinculadas en las cajas color verde. Ten cuidado de descargar el archivo correcto para tu arquitectura. Si el archivo es x64, entonces es para 64 bits, si es x86 entonces es de 32 bits. 
 
 ---
 ### <i class="icon-eject"></i> Paso 2. Montar .iso
@@ -53,7 +52,7 @@ Nota: Los archivos con formato .iso pueden ser grabados a un CD/ROM o también p
 ---
 ### <i class="icon-home"></i> Paso 3. Elegir idioma 
 
-![Elegir idioma español](https://raw.githubusercontent.com/kmels/DocEdulibre/master/2-idioma.png)
+![](https://raw.githubusercontent.com/kmels/DocEdulibre/master/2-idioma.png)
 
 ---
 ### <i class="icon-refresh"></i> Paso 4. Actualizar multimedia
@@ -68,7 +67,7 @@ Debido a que algunos paquetes no cumplen con el mismo licenciamiento que Ubuntu/
 
 Si la máquina en donde se instala EdulibreOS es nueva, no tiene ningún otro sistema instalado, o no tendrá otro, veremos la opción de borrar todo el disco para que EdulibreOS sea instalado.
 
-![Instalar Edulibre](https://raw.githubusercontent.com/kmels/DocEdulibre/master/4-configurar.png)
+![](https://raw.githubusercontent.com/kmels/DocEdulibre/master/4-configurar.png)
 
 Si en dado caso existiera un sistema ya instalado, también sería posible instalar los dos sistemas! Cada uno en particiones diferentes.
 
@@ -76,13 +75,13 @@ Si en dado caso existiera un sistema ya instalado, también sería posible insta
 
 En este paso puedes configurar el horario del sistema basado en tu ubicación.
 
-![A](https://raw.githubusercontent.com/kmels/DocEdulibre/master/5-ubicacion.png)
+![](https://raw.githubusercontent.com/kmels/DocEdulibre/master/5-ubicacion.png)
 
 ### <i class="icon-edit"></i> Paso 7. Idioma del teclado
 
 Edulibre te permite configurar el idioma del teclado.
 
-![A](https://raw.githubusercontent.com/kmels/DocEdulibre/master/6-teclado.png)
+![](https://raw.githubusercontent.com/kmels/DocEdulibre/master/6-teclado.png)
 
 Mientras lo haces, puedes escribir en esta ventana para segurarte de cómo se escriben  algunos de los caracteres especiales, tales como las tíldes, la eñe, la arroba (`@`), etcétera.
 
@@ -90,7 +89,7 @@ Mientras lo haces, puedes escribir en esta ventana para segurarte de cómo se es
 
 Aquí puedes ingresar tu nombre personal, el nombre del equipo y tu nombre de usuario.
 
-![A](https://raw.githubusercontent.com/kmels/DocEdulibre/master/7-personalizar.png)
+![](https://raw.githubusercontent.com/kmels/DocEdulibre/master/7-personalizar.png)
 
 Es muy recomendado que cifres tu carpeta de usuario, ya que esto puede llegar a proteger tus datos en un posible caso
 
@@ -105,7 +104,7 @@ Es muy recomendado que cifres tu carpeta de usuario, ya que esto puede llegar a 
 
 ### <i class="icon-user"></i> Paso 9. Proceso de instalación
 
-![A](https://raw.githubusercontent.com/kmels/DocEdulibre/master/8-proceso.png)
+![](https://raw.githubusercontent.com/kmels/DocEdulibre/master/8-proceso.png)
 
 Y ahora lo único que hace falta es esperar a que el proceso termine. Al terminar, el equipo se reiniciará y tendrás listo el sistema!
 
