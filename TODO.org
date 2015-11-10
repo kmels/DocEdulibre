@@ -3,3 +3,9 @@ my innova y cada una de sus caracterisiticas
 el nuevo panel
 el nuevo launcher
 y el escritorio
+
+* MyInnova
+** Escritorio
+** Apariencia
+** Resolucion
+** 

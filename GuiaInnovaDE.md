@@ -38,7 +38,7 @@ Lo primero que verás cuando inicies una máquina con Edulibre será la pantalla
 
 ![](https://raw.githubusercontent.com/kmels/DocEdulibre/master/g1-bienvenido.png)
 
----
+
 ### 2. Manejo de Ventanas
 
 Al ingresar verás el escritorio, en el cual podrás abrir programas y manejar sus ventanas. Estas ventanas las puedes arrastrar con el ratón, cambiarles el tamaño, y algunas también incluyen un menú con más opciones del programa.
@@ -47,30 +47,52 @@ Al ingresar verás el escritorio, en el cual podrás abrir programas y manejar s
 
 En esta imágen hemos indicado como se minimiza, cierra y se maximiza una ventana. Además de señalar el menú de un programa.
 
----
+
 ### 3. Menú de inicio principal
 
 Manteniendo el espiritú de los sistemas operativos modernos, Edulibre e InnovaDE provee un menú de inicio llamado Launcher, que es muy útil para buscar y lanzar programas.
 
 ![](https://raw.githubusercontent.com/kmels/DocEdulibre/master/g3-menu-inicio.png)
 
-Para activarlo, haz clíck en el botón en la esquina inferior izquierda. La imágen de este botón también es personalizable en MyInnova. Cuando lo actives, verás el botón de apagado y de reinicio para el sistema.
+Para activarlo, haz clíck en el botón en la esquina inferior izquierda en el boton de inicio. Cuando lo actives, verás el botón de apagado y de reinicio para el sistema. Por cierto, la imágen del botón de inicio también es personalizable en la configuraci&oacute;n de InnovaDE. 
 
 También puedes buscar tu programa favorito al escribir su nombre o bien haciendo clíck en su categoría del lado izquierdo.
 
----
-### 4. Centro de control Innova
+### 4. Configuraci&oacute;n MyInnova
+
+InnovaDE es un revolucionario entorno de escritorio para EdulibreOS. Haz click en el boton del launcher "MyInnova" Para explorar las configuraciones.
+
+#### Escritorio
+
+![](https://raw.githubusercontent.com/kmels/DocEdulibre/master/g4-escritorio.png)
+
+Lo primero que se puede notar en la configuraci&oacute;n de _My Innova_ es la configuraci&oacute;n del escritorio. 
+
+#### Innova
+
+![](https://raw.githubusercontent.com/kmels/DocEdulibre/master/g4-innova.png)
+
+#### Panel
+
+![](https://raw.githubusercontent.com/kmels/DocEdulibre/master/g4-panel.png)
 
 #### Apariencia
 
-![](https://raw.githubusercontent.com/kmels/DocEdulibre/master/g4-controlcenter-apariencia.png)
+La apariencia Innova permite cambiar los colores y formas del men&uacute; de inicio y la barra de programas. 
 
-![](https://raw.githubusercontent.com/kmels/DocEdulibre/master/g4-controlcenter-apariencia-res.png)
+![](https://raw.githubusercontent.com/kmels/DocEdulibre/master/g4-programas.png)
 
-Resolución de la pantalla
-####
+#### Widget
 
+![](https://raw.githubusercontent.com/kmels/DocEdulibre/master/g4-widgets.png)
 
+#### Aplicaciones
+
+![](https://raw.githubusercontent.com/kmels/DocEdulibre/master/g4-aplicaciones.png)
+
+#### Splash
+
+![](https://raw.githubusercontent.com/kmels/DocEdulibre/master/g4-splash.png)
 
 ##### Hardware
 
@@ -111,10 +133,11 @@ Resolución de la pantalla
 
 
 
----
 ### 5. My Innova
 
 #### Escritorio
+
+
 ![Preferencias de escritorio](https://raw.githubusercontent.com/kmels/DocEdulibre/master/g5-myinnova-escritorio.png)
 
 #### Innova

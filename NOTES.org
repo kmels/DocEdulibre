@@ -1,0 +1,10 @@
+
+General:
+* Sourceforge no funciona muy bien. La descargas son interrumpidas.
+* El mensaje de bienvenida dice v7.0 cuando la version es 7.2
+
+Innova:
+* Escritorio. No se puede activar y desactivar Icono Home y Papelera sin cambiar el fondo de pantalla.
+* Escritorio. Cuando se cambia el fondo de pantalla el mensaje es "El tema a cambiado con exito". Deberia ser "El fondo de pantalla ha cambiado con exito"
+
+
