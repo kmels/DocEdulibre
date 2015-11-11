@@ -10,7 +10,6 @@ Bienvenido, este sitio contiene información sobre la nueva interfaz InnovaDB, d
 
 * [Torrents.md](https://github.com/kmels/DocEdulibre/blob/master/Torrents.md)
 
-* [AjusteSistema.md](https://github.com/kmels/DocEdulibre/blob/master/AjusteSistema.md)
 
 # [Documentaciones en HTML](https://gateway.ipfs.io/ipfs/QmV4kE7cgPFHJYKM3WbBSuSSvt4hKDpHsSJLnMThKkJJJf/GuiaInnovaDE.html)
 
@@ -20,5 +19,5 @@ Bienvenido, este sitio contiene información sobre la nueva interfaz InnovaDB, d
 
 * [Torrents](https://gateway.ipfs.io/ipfs/QmV4kE7cgPFHJYKM3WbBSuSSvt4hKDpHsSJLnMThKkJJJf/GuiaInnovaDE.html)
 
-* [Ajustes del Sistema](https://gateway.ipfs.io/ipfs/QmV4kE7cgPFHJYKM3WbBSuSSvt4hKDpHsSJLnMThKkJJJf/AjusteSistema.html)
+
 
