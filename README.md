@@ -2,7 +2,7 @@
 
 Bienvenido, este sitio contiene información sobre la nueva interfaz InnovaDB, del sistema EdulibreOS
 
-# Documentaciones
+# Documentaciones en este repositorio
 
 * [InstalacionEdulibreOS-V7.2.md](https://github.com/kmels/DocEdulibre/blob/master/InstalacionEdulibreOS-V7.2.md)
 
@@ -10,7 +10,7 @@ Bienvenido, este sitio contiene información sobre la nueva interfaz InnovaDB, d
 
 * [Torrents.md](https://github.com/kmels/DocEdulibre/blob/master/Torrents.md)
 
-* [GuiaInnovaDE.md](https://github.com/kmels/DocEdulibre/blob/master/GuiaInnovaDE.md)
+* [AjusteSistema.md](https://github.com/kmels/DocEdulibre/blob/master/AjusteSistema.md)
 
 # [Documentaciones en HTML](https://gateway.ipfs.io/ipfs/QmT6LhAK6UX4PHUX1LzuE1JJg3ginTjHsgMTDP6uZZtg9B/GuiaInnovaDE.html)
 
@@ -18,5 +18,7 @@ Bienvenido, este sitio contiene información sobre la nueva interfaz InnovaDB, d
 
 * [Guia InnovaDE V7.2](https://gateway.ipfs.io/ipfs/QmT6LhAK6UX4PHUX1LzuE1JJg3ginTjHsgMTDP6uZZtg9B/GuiaInnovaDE.html)
 
+* [Torrents](https://gateway.ipfs.io/ipfs/QmT6LhAK6UX4PHUX1LzuE1JJg3ginTjHsgMTDP6uZZtg9B/GuiaInnovaDE.html)
 
+* [Ajustes del Sistema](https://gateway.ipfs.io/ipfs/QmT6LhAK6UX4PHUX1LzuE1JJg3ginTjHsgMTDP6uZZtg9B/AjusteSistema.html)
 
