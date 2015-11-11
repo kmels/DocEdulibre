@@ -100,6 +100,10 @@ La apariencia Innova permite cambiar el estilo y forma de los colores, iconos, v
 
 ![](https://raw.githubusercontent.com/kmels/DocEdulibre/master/g4-apariencia.png)
 
+Por ejemplo, as&iacute; es como se ve el tema "Fedora": 
+
+![](https://raw.githubusercontent.com/kmels/DocEdulibre/master/g5-sistema.png)
+
 #### 4.5 Widget
 
 ![](https://raw.githubusercontent.com/kmels/DocEdulibre/master/g4-widgets.png)

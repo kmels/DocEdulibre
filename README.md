@@ -10,8 +10,7 @@ Bienvenido, este sitio contiene información sobre la nueva interfaz InnovaDB, d
 
 * [Torrents.md](https://github.com/kmels/DocEdulibre/blob/master/Torrents.md)
 
-
-# [Documentaciones en HTML](https://gateway.ipfs.io/ipfs/QmV4kE7cgPFHJYKM3WbBSuSSvt4hKDpHsSJLnMThKkJJJf/GuiaInnovaDE.html)
+# Documentaciones en HTML
 
 * [Instalacion EdulibreOS V7.2](https://gateway.ipfs.io/ipfs/QmV4kE7cgPFHJYKM3WbBSuSSvt4hKDpHsSJLnMThKkJJJf/InstalacionEdulibreOS-V7.2.html)
 
