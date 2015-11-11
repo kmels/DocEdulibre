@@ -34,4 +34,4 @@ img  {display: block; margin-left: auto; margin-right: auto; max-width: 640px;}
 
 [EdulibreOS-LTS-V7.2-Completa-Desktop-x64.iso.torrent](https://github.com/kmels/DocEdulibre/raw/master/EdulibreOS-LTS-V7.2-Completa-Desktop-x64.iso.torrent)
 
-Direccion alternativa en IPFS para descargar torrents: [https://gateway.ipfs.io/ipfs/QmPEBM1gMTkcX5LeHXAXhobXMFkq6xsiAaqbxq25VCAJYy](https://gateway.ipfs.io/ipfs/QmPEBM1gMTkcX5LeHXAXhobXMFkq6xsiAaqbxq25VCAJYy)
+Direccion alternativa en IPFS para descargar torrents: [https://gateway.ipfs.io/ipfs/QmV4kE7cgPFHJYKM3WbBSuSSvt4hKDpHsSJLnMThKkJJJf](https://gateway.ipfs.io/ipfs/QmV4kE7cgPFHJYKM3WbBSuSSvt4hKDpHsSJLnMThKkJJJf)

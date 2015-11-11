@@ -36,10 +36,10 @@ En su última version y a partir de la version 7, EdulibreOS provee un entorno g
 Toda la información y discos de instalación puedes encontrarlos en el sitio oficial de EdulibreOS, [edulibre.net](http://edulibre.net/)
 
 
-![Las descargas de la última versión se encuentran listadas en la secci&oacute;n de Descargas. Ten cuidado de descargar el archivo correcto para tu arquitectura. Si el archivo es x64, entonces es para 64 bits unicamente, si es x86 entonces es para 32 y 64 bits. ](https://raw.githubusercontent.com/kmels/DocEdulibre/master/0-descarga.png)
+![](https://raw.githubusercontent.com/kmels/DocEdulibre/master/0-descarga.png)
 
+Las descargas de la última versión se encuentran listadas en la secci&oacute;n de Descargas. Ten cuidado de descargar el archivo correcto para tu arquitectura. Si el archivo es x64, entonces es para 64 bits unicamente, si es x86 entonces es para 32 y 64 bits. 
 
----
 ### <i class="icon-eject"></i> Paso 2. Montar .iso
 
 Cuando la descarga termine, es posible usar el archivo para instalar EdulibreOS. Al utilizar el archivo .iso en la máquina en donde EdulibreOS se instalará, elegimos la opción para "Instalar".
@@ -49,20 +49,17 @@ Nota: Los archivos con formato .iso pueden ser grabados a un CD/ROM o también p
 ![Elegimos la opción para "Instalar".](https://raw.githubusercontent.com/kmels/DocEdulibre/master/1-inicio.png)
 
 
----
 ### <i class="icon-home"></i> Paso 3. Elegir idioma 
 
 ![](https://raw.githubusercontent.com/kmels/DocEdulibre/master/2-idioma.png)
 
----
 ### <i class="icon-refresh"></i> Paso 4. Actualizar multimedia
 
 Debido a que algunos paquetes no cumplen con el mismo licenciamiento que Ubuntu/Linux y EdulibreOS tienen para Software Libre, es necesario que se acepte por aparte la instalación, para poder reproducir Flash, Mp3 y otros archivos multimedia.
 
-![Marcar paquetes multimedia para instalación](https://raw.githubusercontent.com/kmels/DocEdulibre/master/3-actualizar.png)
+![Recomendado: El software de terceros incluye paquetes multimedia importantes para la reproducci&oacute;n de algunos archivos.](https://raw.githubusercontent.com/kmels/DocEdulibre/master/3-actualizar.png)
 
 
----
 ### <i class="icon-cog"></i> Paso 5. Configurar instalación
 
 Si la máquina en donde se instala EdulibreOS es nueva, no tiene ningún otro sistema instalado, o no tendrá otro, veremos la opción de borrar todo el disco para que EdulibreOS sea instalado.
@@ -91,16 +88,7 @@ Aquí puedes ingresar tu nombre personal, el nombre del equipo y tu nombre de us
 
 ![](https://raw.githubusercontent.com/kmels/DocEdulibre/master/7-personalizar.png)
 
-Es muy recomendado que cifres tu carpeta de usuario, ya que esto puede llegar a proteger tus datos en un posible caso
-
-
-----------
-
-
-----------
-
-
- de robo.
+Es muy recomendado que cifres tu carpeta de usuario, ya que esto puede llegar a proteger tus datos en un posible caso de robo.
 
 ### <i class="icon-user"></i> Paso 9. Proceso de instalación
 

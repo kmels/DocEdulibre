@@ -12,13 +12,13 @@ Bienvenido, este sitio contiene información sobre la nueva interfaz InnovaDB, d
 
 * [AjusteSistema.md](https://github.com/kmels/DocEdulibre/blob/master/AjusteSistema.md)
 
-# [Documentaciones en HTML](https://gateway.ipfs.io/ipfs/QmT6LhAK6UX4PHUX1LzuE1JJg3ginTjHsgMTDP6uZZtg9B/GuiaInnovaDE.html)
+# [Documentaciones en HTML](https://gateway.ipfs.io/ipfs/QmV4kE7cgPFHJYKM3WbBSuSSvt4hKDpHsSJLnMThKkJJJf/GuiaInnovaDE.html)
 
-* [Instalacion EdulibreOS V7.2](https://gateway.ipfs.io/ipfs/QmT6LhAK6UX4PHUX1LzuE1JJg3ginTjHsgMTDP6uZZtg9B/InstalacionEdulibreOS-V7.2.html)
+* [Instalacion EdulibreOS V7.2](https://gateway.ipfs.io/ipfs/QmV4kE7cgPFHJYKM3WbBSuSSvt4hKDpHsSJLnMThKkJJJf/InstalacionEdulibreOS-V7.2.html)
 
-* [Guia InnovaDE V7.2](https://gateway.ipfs.io/ipfs/QmT6LhAK6UX4PHUX1LzuE1JJg3ginTjHsgMTDP6uZZtg9B/GuiaInnovaDE.html)
+* [Guia InnovaDE V7.2](https://gateway.ipfs.io/ipfs/QmV4kE7cgPFHJYKM3WbBSuSSvt4hKDpHsSJLnMThKkJJJf/GuiaInnovaDE.html)
 
-* [Torrents](https://gateway.ipfs.io/ipfs/QmT6LhAK6UX4PHUX1LzuE1JJg3ginTjHsgMTDP6uZZtg9B/GuiaInnovaDE.html)
+* [Torrents](https://gateway.ipfs.io/ipfs/QmV4kE7cgPFHJYKM3WbBSuSSvt4hKDpHsSJLnMThKkJJJf/GuiaInnovaDE.html)
 
-* [Ajustes del Sistema](https://gateway.ipfs.io/ipfs/QmT6LhAK6UX4PHUX1LzuE1JJg3ginTjHsgMTDP6uZZtg9B/AjusteSistema.html)
+* [Ajustes del Sistema](https://gateway.ipfs.io/ipfs/QmV4kE7cgPFHJYKM3WbBSuSSvt4hKDpHsSJLnMThKkJJJf/AjusteSistema.html)
 
