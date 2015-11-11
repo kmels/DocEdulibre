@@ -62,7 +62,7 @@ También puedes buscar tu programa favorito al escribir su nombre o bien haciend
 
 InnovaDE es un revolucionario entorno de escritorio para EdulibreOS. Haz click en el boton del launcher "MyInnova" Para explorar las configuraciones.
 
-#### Escritorio
+#### 4.1 Escritorio
 
 Lo primero que se puede notar en la configuraci&oacute;n de _My Innova_ es la configuraci&oacute;n del escritorio. 
 
@@ -70,11 +70,11 @@ Lo primero que se puede notar en la configuraci&oacute;n de _My Innova_ es la co
 
 Esta secci&oacute;n permite habilitar y deshabilitar los iconos del escritorio para los folders "Sistema" y "Papelera".
 
-Adem&acute;s, aqu&iacute; es posible cambiar el fondo de pantalla del escritorio.
+Adem&aacute;s, aqu&iacute; es posible cambiar el fondo de pantalla del escritorio.
 
 ![](https://raw.githubusercontent.com/kmels/DocEdulibre/master/g4-escritorio.png)
 
-#### Innova
+#### 4.2 Innova
 
 Siguiente, podemos establecer transparencia de las ventanas si se cuenta con un gestor de composici&oacute;n como por ejemplo Compiz.
 
@@ -84,7 +84,7 @@ Por &uacute;ltimo, vemos la opci&oacute;n de cambiar el icono de inicio que es t
 
 ![](https://raw.githubusercontent.com/kmels/DocEdulibre/master/g4-innova.png)
 
-#### Panel
+#### 4.3 Panel
 
 El panel de Innova se refiere a la barra que contiene al menu de inicio, programas favoritos, ventanas abiertas y applets.
 
@@ -94,23 +94,23 @@ Es posible cambiarle color o imagen de fondo, o bien dejar el estilo del tema de
 
 ![](https://raw.githubusercontent.com/kmels/DocEdulibre/master/g4-panel.png)
 
-#### Apariencia
+#### 4.4 Apariencia
 
 La apariencia Innova permite cambiar el estilo y forma de los colores, iconos, ventanas, menus y tipografia de los programas.
 
 ![](https://raw.githubusercontent.com/kmels/DocEdulibre/master/g4-apariencia.png)
 
-#### Widget
+#### 4.5 Widget
 
 ![](https://raw.githubusercontent.com/kmels/DocEdulibre/master/g4-widgets.png)
 
-#### Aplicaciones
+#### 4.6 Aplicaciones
 
 Aqu&iacute; se podr&aacute;n seleccionar las aplicaciones por defecto para abrir archivos de texto, directorios, paginas web, videos u otros programas.
 
 ![](https://raw.githubusercontent.com/kmels/DocEdulibre/master/g4-aplicaciones.png)
 
-#### Splash
+#### 4.7 Splash
 
 Se refiere a la pantalla de bienvenida.
 
