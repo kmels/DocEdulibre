@@ -64,23 +64,41 @@ InnovaDE es un revolucionario entorno de escritorio para EdulibreOS. Haz click e
 
 #### Escritorio
 
-![](https://raw.githubusercontent.com/kmels/DocEdulibre/master/g4-escritorio.png)
-
 Lo primero que se puede notar en la configuraci&oacute;n de _My Innova_ es la configuraci&oacute;n del escritorio. 
 
+![](https://raw.githubusercontent.com/kmels/DocEdulibre/master/g4-escritorio-iconos.png)
+
+Esta secci&oacute;n permite habilitar y deshabilitar los iconos del escritorio para los folders "Sistema" y "Papelera".
+
+Adem&acute;s, aqu&iacute; es posible cambiar el fondo de pantalla del escritorio.
+
+![](https://raw.githubusercontent.com/kmels/DocEdulibre/master/g4-escritorio.png)
+
 #### Innova
+
+Siguiente, podemos establecer transparencia de las ventanas si se cuenta con un gestor de composici&oacute;n como por ejemplo Compiz.
+
+El idioma se refiere a la localidad en cada idioma. En la captura vemos tres idiomas y para cada idioma, un pa&iacute;s asociado y un encoding. Se recomienda usar UTF-8 como encoding. El pa&iacute;s es &uacute;til elegirlo para formato de fechas y n&uacute;meros.
+
+Por &uacute;ltimo, vemos la opci&oacute;n de cambiar el icono de inicio que es tambi&eacute;n personalizable.
 
 ![](https://raw.githubusercontent.com/kmels/DocEdulibre/master/g4-innova.png)
 
 #### Panel
 
+El panel de Innova se refiere a la barra que contiene al menu de inicio, programas favoritos, ventanas abiertas y applets.
+
+![](https://raw.githubusercontent.com/kmels/DocEdulibre/master/g4-panel-barra.png)
+
+Es posible cambiarle color o imagen de fondo, o bien dejar el estilo del tema de Innova. 
+
 ![](https://raw.githubusercontent.com/kmels/DocEdulibre/master/g4-panel.png)
 
 #### Apariencia
 
-La apariencia Innova permite cambiar los colores y formas del men&uacute; de inicio y la barra de programas. 
+La apariencia Innova permite cambiar el estilo y forma de los colores, iconos, ventanas, menus y tipografia de los programas.
 
-![](https://raw.githubusercontent.com/kmels/DocEdulibre/master/g4-programas.png)
+![](https://raw.githubusercontent.com/kmels/DocEdulibre/master/g4-apariencia.png)
 
 #### Widget
 
@@ -88,9 +106,13 @@ La apariencia Innova permite cambiar los colores y formas del men&uacute; de ini
 
 #### Aplicaciones
 
+Aqu&iacute; se podr&aacute;n seleccionar las aplicaciones por defecto para abrir archivos de texto, directorios, paginas web, videos u otros programas.
+
 ![](https://raw.githubusercontent.com/kmels/DocEdulibre/master/g4-aplicaciones.png)
 
 #### Splash
+
+Se refiere a la pantalla de bienvenida.
 
 ![](https://raw.githubusercontent.com/kmels/DocEdulibre/master/g4-splash.png)
 
